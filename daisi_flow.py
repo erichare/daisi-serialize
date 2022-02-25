@@ -2,7 +2,7 @@ from pydaisi import Daisi
 import numpy as np
 from map_stack import MapStack
 
-obj_daisi = Daisi("Object Test Eric")
+obj_daisi = Daisi("Daisi Serialize")
 
 nx = 200
 ny = 200
