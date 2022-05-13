@@ -17,5 +17,6 @@ class MapStack:
 
 def compute(map_stack, map):
     status = map_stack.add_layer(map)
+    print(status)
     
-    return [status, map_stack]
+    return map_stack
