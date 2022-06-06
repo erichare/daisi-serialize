@@ -1,4 +1,5 @@
 import numpy as np
+import tensorflow
 
 class MapStack:
     def __init__(self, nx, ny):
