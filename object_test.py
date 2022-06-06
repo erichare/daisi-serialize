@@ -1,6 +1,4 @@
 import numpy as np
-import tensorflow
-import streamlit
 
 class MapStack:
     def __init__(self, nx, ny):
